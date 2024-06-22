@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker, Flask, and algorithmic trading**
 
-- 📫 How to reach me **iamunderthewater8@gmail.com**
+- 📫 How to reach me: **iamunderthewater8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
