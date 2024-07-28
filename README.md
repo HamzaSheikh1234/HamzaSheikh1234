@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Stock Analysis Tool](https://github.com/HamzaSheikh1234/Stock-Analysis-Tool)
 
-- 🌱 I’m currently learning **Docker, Flask, and algorithmic trading**
+- 🌱 I’m currently learning **Docker and algorithmic trading**
 
 - 📫 How to reach me: **iamunderthewater8@gmail.com**
 
